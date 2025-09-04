@@ -1,0 +1,10 @@
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\bin\Debug\HardDriveInfo.exe.config
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\bin\Debug\HardDriveInfo.exe
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\bin\Debug\HardDriveInfo.pdb
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.csproj.AssemblyReference.cache
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.Form1.resources
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.Properties.Resources.resources
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.csproj.GenerateResource.cache
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.csproj.CoreCompileInputs.cache
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.exe
+E:\Project\HardDriveInfo\HardDriveInfo\HardDriveInfo\obj\Debug\HardDriveInfo.pdb
